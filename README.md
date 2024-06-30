@@ -14,7 +14,15 @@ Special thanks to [Sayantan Singha Roy](https://www.linkedin.com/in/sayantan-sin
 
 Post link- https://www.linkedin.com/feed/update/urn:li:activity:7192802411273424896/
 
+[Algorand Unleashed - Part 1 | Adamas ABC Launch Recording](https://www.youtube.com/watch?v=J5p6X9ySlM4)
 
+[Algorand Unleashed - Part 2 | Adamas ABC Launch Recording](https://www.youtube.com/watch?v=9JUg1Sv1n6E)
+
+<img width="1470" alt="Screenshot 2024-05-05 at 1 00 35 PM" src="https://github.com/AdamasABC/Student-Contributions/assets/172119054/adf46cb3-b5d4-4bb6-814f-429803ab70e2">
+
+<img width="1470" alt="Screenshot 2024-05-05 at 12 59 33 PM" src="https://github.com/AdamasABC/Student-Contributions/assets/172119054/57db8313-210a-4e0d-82ca-e98b5e903caf">
+
+<img width="1470" alt="Screenshot 2024-05-05 at 1 03 51 PM" src="https://github.com/AdamasABC/Student-Contributions/assets/172119054/28ddc990-8308-4b6a-b96d-3dd2c1634002">
 
 2. **Blog- Mastering Blockchain: A Step-by-Step Guide to Setting Up Your Own Node** (Date: 12 May, 2024)
    - Banks got you tired with fees? Set up your node and ditch the middleman! This guide shows you how.
@@ -54,5 +62,6 @@ Since the entire June we had exams for all departments, so all the club operatio
 
 btw India🇮🇳👑 won T20 world cup, 2024 by only 7 runs against South Africa, what a teriffic match it was!! GOATS 🐐 retired
 
+![India](https://github.com/AdamasABC/Student-Contributions/assets/172119054/7ea52c7b-c7b9-42ab-9f65-5f66e106ea73)
 
 With this, we concluded contributions for June, 2024. ✨
