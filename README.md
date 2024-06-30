@@ -10,7 +10,9 @@ May Contributions
 - 2:30hrs of quality knowledge sharing
 ​
 
-Special thanks to [Sayantan Singha Roy](https://www.linkedin.com/in/sayantan-singha-roy-330721227/), [Dr. Sajal Saha](https://www.linkedin.com/in/sajalsahaofficial/) and the whole team behind it... Aditya Yadav Surojit Mondal Apurba Bhattacharjee Sahira Ali Aaliya Khurshid Aditya Kumar Raj Basak Prince Tiwari SHAIBAL GHOSH Shubhrangshu Bhattacharjee Samyak Karmakar Subham Kundu ANKITA BOSE Prachurya Ghara.
+Special thanks to [Sayantan Singha Roy](https://www.linkedin.com/in/sayantan-singha-roy-330721227/), [Dr. Sajal Saha](https://www.linkedin.com/in/sajalsahaofficial/) and the whole team behind it... Aditya Yadav, Surojit Mondal, Apurba Bhattacharjee, Sahira Ali, Aaliya Khurshid, Aditya Kumar, Raj Basak, Prince Tiwari, SHAIBAL GHOSH, Shubhrangshu Bhattacharjee, Samyak Karmakar, Subham Kundu, ANKITA BOSE, Prachurya Ghara.
+
+Post link- https://www.linkedin.com/feed/update/urn:li:activity:7192802411273424896/
 
 June Contributions
 ------------------------------------------------------------------------------------------------------------
