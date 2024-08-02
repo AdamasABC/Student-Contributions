@@ -56,3 +56,23 @@ btw India🇮🇳👑 won T20 world cup, 2024 by only 7 runs against South Afric
 
 
 With this, we concluded contributions for June, 2024. ✨
+
+
+July Contributions
+------------------------------------------------------------------------------------------------------------
+
+1. **Blog- More than a Trillion Dollar Problem: Can Blockchain Be the Antidote to Corruption?**
+   (Date: 13 July, 2024)
+   - Broken systems, stolen funds. Can blockchain transparency end the era of corruption? This article explores the limitations of traditional government systems and their vulnerability to corruption. We then explore how blockchain, specifically smart contracts, can address these weaknesses.
+   - Contributed by [Bishal Kundu](https://www.linkedin.com/in/bishalkundu/), MBA
+
+Article Link- https://medium.com/@AdamasABC/more-than-a-trillion-dollar-problem-can-blockchain-be-the-antidote-to-corruption-bc1ead3df8b0
+
+2. **Started building our official Website for AdamasABC, Adamas University chapter**
+   - Wireframe and UI done, started coding part, we will make sure it comes out aesthetically appealing.
+   - Contributed by 2nd Year students, CSE
+
+2. **Started onboarding student projects and distributed among different teams focusing on some Real-World problems**
+   - Inter-department student projects, teamwork, collaboration.
+
+With this, we concluded contributions for July, 2024. ✨
