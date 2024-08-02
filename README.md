@@ -77,11 +77,15 @@ July Contributions
 
 Article Link- https://medium.com/@AdamasABC/more-than-a-trillion-dollar-problem-can-blockchain-be-the-antidote-to-corruption-bc1ead3df8b0
 
-2. **Started building our official Website for AdamasABC, Adamas University chapter**
+2. **Started onboarding student projects and distributed among different teams focusing on some Real-World problems**
+   - Inter-department student projects, teamwork, collaboration.
+
+![july1](https://github.com/user-attachments/assets/570e9393-e63f-4ee4-b5ee-352e1b6c0b82)
+  
+3. **Started building our official Website for AdamasABC, Adamas University chapter**
    - Wireframe and UI done, started coding part, we will make sure it comes out aesthetically appealing.
    - Contributed by 2nd Year students, CSE
 
-2. **Started onboarding student projects and distributed among different teams focusing on some Real-World problems**
-   - Inter-department student projects, teamwork, collaboration.
+https://github.com/user-attachments/assets/5b96875a-e951-4fc6-8f8b-9588ff5e5352
 
 With this, we concluded contributions for July, 2024. ✨
