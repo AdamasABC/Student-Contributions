@@ -76,3 +76,24 @@ Article Link- https://medium.com/@AdamasABC/more-than-a-trillion-dollar-problem-
    - Inter-department student projects, teamwork, collaboration.
 
 With this, we concluded contributions for July, 2024. ✨
+
+
+August Contributions
+------------------------------------------------------------------------------------------------------------
+
+1. **Road2Impact- Kolkata Chapter**
+   (Date: 3rd Aug, 2024)
+   - It was great to catch up with some really cool people again from the community.
+
+2. **45Day Challenge By Sandip- #45DayChallengeBySandip**
+   (Date: 19 Aug, 2024)
+   - An initiative by **[Sandip Kumar Dey↗](https://www.linkedin.com/in/sandipkumardey/) our ABC Lead.** This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more.
+   - Over 70+ students across India have applied for participation and only 60 are actually doing the challenge, it's already the end of Week1.
+
+Challenge Link- https://github.com/sandipkumardey/45DayChallengeBySandip
+
+3. **Initiating Physical Classes**
+   - Day1, How Frontend and Backend Works and how they communicate with each other, **DOM architecture**, a very high-level overview
+   - Day2, The theme was **Creativity**, Good design vs Bad design with Examples, old-school design principles, why GOOD design is important, and some basic wireframe designs
+
+With this, we concluded contributions for August, 2024. ✨
