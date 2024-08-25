@@ -100,13 +100,20 @@ August Contributions
 
 2. **45Day Challenge By Sandip- #45DayChallengeBySandip**
    (Date: 19 Aug, 2024)
-   - An initiative by **[Sandip Kumar Dey↗](https://www.linkedin.com/in/sandipkumardey/) our ABC Lead.** This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more.
+   - An initiative by **[Sandip Kumar Dey↗](https://www.linkedin.com/in/sandipkumardey/) our ABC Lead.**
+   - This challenge would be an immense help for students who are at a decent level since the challenge covers CP, projects, coding challenges, and much more.
    - Over 70+ students across India have applied for participation and only 60 are actually doing the challenge, it's already the end of Week1.
+
+![Untitled design-2](https://github.com/user-attachments/assets/3f78da92-e13d-4ede-8052-73d2c07dd749)
+     
+![#45DayChallengeBySandip](https://github.com/user-attachments/assets/fa6b5f53-b804-4f8f-b4c0-169652bee7ab)
 
 Challenge Link- https://github.com/sandipkumardey/45DayChallengeBySandip
 
 3. **Initiating Physical Classes**
-   - Day1, How Frontend and Backend Works and how they communicate with each other, **DOM architecture**, a very high-level overview
-   - Day2, The theme was **Creativity**, Good design vs Bad design with Examples, old-school design principles, why GOOD design is important, and some basic wireframe designs
+   - Day1👉 How Frontend and Backend Works and how they communicate with each other, **DOM architecture**, a very high-level overview.
+   - Day2👉 The theme was **Creativity**, Good design vs Bad design with Examples, old-school design principles, why GOOD design is important, and some basic wireframe designs.
+
+![1723910201329](https://github.com/user-attachments/assets/04c14179-47aa-41ee-bad2-7aee50832967)
 
 With this, we concluded contributions for August, 2024. ✨
