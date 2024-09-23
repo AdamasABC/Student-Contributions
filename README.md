@@ -117,3 +117,7 @@ Challenge Link- https://github.com/sandipkumardey/45DayChallengeBySandip
 ![1723910201329](https://github.com/user-attachments/assets/04c14179-47aa-41ee-bad2-7aee50832967)
 
 With this, we concluded contributions for August, 2024. ✨
+
+---------------------------
+
+This is my first contribution- Surojit Mondal
