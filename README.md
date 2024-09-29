@@ -123,9 +123,14 @@ September Contributions
 ------------------------------------------------------------------------------------------------------------
 
 1. **Physical Classes**
-   - Day3, UI/UX basics, explored design platforms like Behance and Dribble, followed by hands-on UI/UX practice.
-   - Day4, Git/GitHub basics, Git essentials, and GitHub Actions, with hands-on issue fixing, PRs, and merging.
-   - Day5, CRUD App Development, students were given a task to build a functional CRUD app using Firebase and deploy it on GitHub in 1 hour.
-   - Day6, Data-flow Diagrams, Introduced Data Flow Diagrams, ER Diagrams, and practiced using real-world examples.
+
+   ![IMG_20240927_202426](https://github.com/user-attachments/assets/b6b92ee5-fd46-4d62-985b-9e4993d06760)
+
+   ![IMG-20240916-WA0024](https://github.com/user-attachments/assets/9e2f3ed6-7e44-4ee0-b7e9-99505b438b48)
+
+   - Day3👉 UI/UX basics, explored design platforms like Behance and Dribble, followed by hands-on UI/UX practice.
+   - Day4👉 Git/GitHub basics, Git essentials, and GitHub Actions, with hands-on issue fixing, PRs, and merging.
+   - Day5👉 CRUD App Development, students were given a task to build a functional CRUD app using Firebase and deploy it on GitHub in 1 hour.
+   - Day6👉 Data-flow Diagrams, Introduced Data Flow Diagrams, ER Diagrams, and practiced using real-world examples.
 
 With this, we concluded contributions for September, 2024. ✨
