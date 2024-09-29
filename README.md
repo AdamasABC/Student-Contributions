@@ -117,3 +117,15 @@ Challenge Link- https://github.com/sandipkumardey/45DayChallengeBySandip
 ![1723910201329](https://github.com/user-attachments/assets/04c14179-47aa-41ee-bad2-7aee50832967)
 
 With this, we concluded contributions for August, 2024. ✨
+
+
+September Contributions
+------------------------------------------------------------------------------------------------------------
+
+1. **Physical Classes**
+   - Day3, UI/UX basics, explored design platforms like Behance and Dribble, followed by hands-on UI/UX practice.
+   - Day4, Git/GitHub basics, Git essentials, and GitHub Actions, with hands-on issue fixing, PRs, and merging.
+   - Day5, CRUD App Development, students were given a task to build a functional CRUD app using Firebase and deploy it on GitHub in 1 hour.
+   - Day6, Data-flow Diagrams, Introduced Data Flow Diagrams, ER Diagrams, and practiced using real-world examples.
+
+With this, we concluded contributions for September, 2024. ✨
