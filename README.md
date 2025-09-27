@@ -151,6 +151,7 @@ With this, we concluded contributions for March, 2025. ✨
 
 April Contributions
 ------------------------------------------------------------------------------------------------------------
+<img width="1920" height="1080" alt="canOP" src="https://github.com/user-attachments/assets/36015190-4f8f-401e-894f-6bb29d5653a3" />
 
 1. **One of our proudest moments this year was the preparation for our flagship event- [CanOP 2025](https://canop.framer.website).**
 An exciting Graffiti Hackathon & Showcase, designed to bring together students from multiple campuses for live design and creativity.
