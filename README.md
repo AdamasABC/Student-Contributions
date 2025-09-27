@@ -173,6 +173,7 @@ Event page- [Link](https://canop.framer.website)
 Special Thanks to all the contributors — [Sandip Kumar Dey](https://www.linkedin.com/in/sandipkumardey/), [Iman Sarkar](https://www.linkedin.com/in/iman-sarkar/), [Ashish R. Das](https://www.linkedin.com/in/ashish-ranjan-das↗-530512198/), [Shubhrangshu Bhattacharjee](https://www.linkedin.com/in/shubhrangshu-bhattacharjee-a8924726b/), [Kaustav Kar](https://www.linkedin.com/in/kaustav-kar-55101133b/) and many others for their hard work, dedication, and energy that made this milestone possible.
 
 2. **Design workshops led by [Sweta Khanra](https://www.linkedin.com/in/swetakhanra/).**
+
 Check out work here- [Link](https://github.com/AdamasABC/Design-and-Dev-Cohort-1/tree/main/docs)
 
 With this, we concluded contributions for April, 2025. ✨
