@@ -147,3 +147,34 @@ Top 7 winners!! (not in order)
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/2f0a02a0-795c-49cd-9cc8-07a86d7e8626)
 
+With this, we concluded contributions for March, 2025. ✨
+
+April Contributions
+------------------------------------------------------------------------------------------------------------
+<img width="1920" height="1080" alt="canOP" src="https://github.com/user-attachments/assets/36015190-4f8f-401e-894f-6bb29d5653a3" />
+
+1. **One of our proudest moments this year was the preparation for our flagship event- [CanOP 2025](https://canop.framer.website).**
+An exciting Graffiti Hackathon & Showcase, designed to bring together students from multiple campuses for live design and creativity.
+While the event itself did not take place, the journey to get there was a huge learning experience and achievement for our team. 
+
+In the process, we:
+- Finalized multiple sponsorships (yes, Harley-Davidson, BMW, Kawasaki, Burger Paints, and more)
+- Built a dedicated event website
+- Designed and executed end-to-end event planning
+- Coordinated with guest artists and collaborators
+- Learned to manage large-scale logistics and responsibilities
+Although it didn’t happen on campus this year, the effort put in by our team is something we deeply value.
+
+The skills, systems, and teamwork built during this preparation will directly fuel our future events and challenges. This milestone showed us that our community is capable of organizing high-impact experiences, and we’re ready to make them happen when the timing is right. 🚀
+
+Read more about it here- [Article Link](https://sandipkumardey.substack.com/p/my-semester-of-setbacks-and-small)
+
+Event page- [Link](https://canop.framer.website)
+
+Special Thanks to all the contributors — [Sandip Kumar Dey](https://www.linkedin.com/in/sandipkumardey/), [Iman Sarkar](https://www.linkedin.com/in/iman-sarkar/), [Ashish R. Das](https://www.linkedin.com/in/ashish-ranjan-das↗-530512198/), [Shubhrangshu Bhattacharjee](https://www.linkedin.com/in/shubhrangshu-bhattacharjee-a8924726b/), [Kaustav Kar](https://www.linkedin.com/in/kaustav-kar-55101133b/) and many others for their hard work, dedication, and energy that made this milestone possible.
+
+2. **Design workshops led by [Sweta Khanra](https://www.linkedin.com/in/swetakhanra/).**
+
+Check out work here- [Link](https://github.com/AdamasABC/Design-and-Dev-Cohort-1/tree/main/docs)
+
+With this, we concluded contributions for April, 2025. ✨
